@@ -11,16 +11,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Ronald',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingMorning: 'Buenos Días',
+	greetingAfternoon: 'Buenas Tardes,',
+	greetingEvening: 'Buenas Noches,',
+	greetingNight: 'Largo, ve a dormir!',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'bot',
+			icon: 'bot',
+			link: 'https://discord.com/app',			
 		},
 		{
 			id: '4',
@@ -77,24 +77,24 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'YouTube Music',
+			icon: 'headphones',
+			link: 'https://open.spotify.com',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
 	secondButtonsContainer: [
 		{
-			id: '1',
-			name: 'Music',
-			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			id: '1',			
+			name: 'Reddit',
+			icon: 'glasses',
+			link: 'https://reddit.com',
 		},
 		{
 			id: '2',
@@ -104,9 +104,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
+			name: 'Todoist',
+			icon: 'trello',
+			link: 'https://todoist.com',
 		},
 		{
 			id: '4',
