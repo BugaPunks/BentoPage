@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Facebook',
+			icon: 'facebook',
+			link: 'https://facebook.com/',
 		},
 		{
 			id: '3',
@@ -143,12 +143,12 @@ const CONFIG = {
 					link: 'https://youtu.be/lGCo8ILvauI?si=xLfB7pKeTEHRDDGa',
 				},
 				{
-					name: 'Purple Disco Machine',
+					name: 'Purple_Disco_Machine',
 					link: 'https://music.youtube.com/playlist?list=PLR2BLLYa9vSuYzKX04vdc5c71vVYUCbN3&si=uj_7ZhbsZne2zTE0',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Avicii',
+					link: 'https://soundcloud.com/user-54013221/2016-06-04-avicii-live-osaka-2016-radio-interfm897?si=e9d6ae6340c44ff985dbfefebac7d98a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing',
 				},
 				{
 					name: 'Rock',
