@@ -139,12 +139,12 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'GRX',
+					link: 'https://youtu.be/lGCo8ILvauI?si=xLfB7pKeTEHRDDGa',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Purple Disco Machine',
+					link: 'https://music.youtube.com/playlist?list=PLR2BLLYa9vSuYzKX04vdc5c71vVYUCbN3&si=uj_7ZhbsZne2zTE0',
 				},
 				{
 					name: 'Oldies',
