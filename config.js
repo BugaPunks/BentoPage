@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Ronald',
+	name: 'John',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -20,20 +20,20 @@ const CONFIG = {
 	greetingMorning: 'Buenos Días',
 	greetingAfternoon: 'Buenas Tardes,',
 	greetingEvening: 'Buenas Noches,',
-	greetingNight: 'Largo, ve a dormir!',
+	greetingNight: 'Vete a dormir',
 
 	// Layout
-	bentoLayout: 'Inicio', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'api', // Write here your API Key
+	weatherKey: '19c0e35c7a0934bde92fcb94b02c4b7e', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
-	language: 'es', // More languages in https://openweathermap.org/current#multi
+	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '-16.527217',
-	defaultLongitude: '-68.099565',
+	defaultLatitude: '37.775',
+	defaultLongitude: '-122.419',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',			
+			name: 'Todoist',
+			icon: 'trello',
+			link: 'https://todoist.com',
 		},
 		{
 			id: '4',
@@ -77,24 +77,24 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'YouTube Music',
-			icon: 'headphones',
-			link: 'https://music.youtube.com/',
+			name: 'Reddit',
+			icon: 'glasses',
+			link: 'https://reddit.com',
 		},
 		{
 			id: '6',
-			name: 'YouTube',
+			name: 'Odysee',
 			icon: 'youtube',
-			link: 'https://youtube.com/',
+			link: 'https://odysee.com/',
 		},
 	],
 
 	secondButtonsContainer: [
 		{
-			id: '1',			
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			id: '1',
+			name: 'Music',
+			icon: 'headphones',
+			link: 'https://open.spotify.com',
 		},
 		{
 			id: '2',
@@ -104,9 +104,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'bot',
+			icon: 'bot',
+			link: 'https://discord.com/app',
 		},
 		{
 			id: '4',
